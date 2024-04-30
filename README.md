@@ -1,7 +1,4 @@
-# POO
-
-Estudos referentes a Programação Orientada a Objetos
-
+# POO - Estudos referentes a Programação Orientada a Objetos
 
 📋 **Checklist para instalção do NODE com TypeScript**
 
