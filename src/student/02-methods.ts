@@ -1,7 +1,7 @@
 // Exercício 2: Agora vamos adicionar à nossa classe de pessoa estudante os comportamentos. 
 // Para isso adicione dois métodos: um que calcula a soma das notas da pessoa estudante e outro que calcula a média das notas da pessoa estudante.
 
-import { Student } from './poo01';
+import { Student } from './01-class-stundet';
 
 // Resolvi "dividir" o exercício em arquivos. Então importei a classe criado anteriormente, agora vou criar os métodos de somar as notas e o cálculo da média
 
