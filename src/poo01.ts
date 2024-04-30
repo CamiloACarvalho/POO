@@ -2,7 +2,7 @@
 // em uma disciplina. Cada objeto dessa classe deve conter os seguintes dados: matrícula, nome, 4 notas de prova, 2 notas de trabalho.
 
 // Classe estudantes, dentro de estudantes teremos suas particularidades, que são instâncias das classe ou Objetos
-class Student {
+export class Student {
   // Private só permite alteração dentro da classe student. Para altera-las fora dessa classe usamos o setters e para cirar módulos usamos o getters
   // Aqui estão os atributos por se tratar de typeScript, estamos tipando para receber os valores corretos
   private _name: string;
