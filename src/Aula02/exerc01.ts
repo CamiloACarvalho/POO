@@ -10,7 +10,7 @@
 //     - A data de nascimento não pode ser uma data no futuro
 //     - A pessoa não pode possuir mais de 120 anos
 
-class Person {
+export default class Person {
   // Declarando os atributos
   private _name: string;
   private _birthDate: Date;
